@@ -1,0 +1,16 @@
+footer{
+    background-color: #02182B!important;
+}
+
+.link-color {
+    color: whitesmoke;
+}
+
+a:hover { 
+    color: #D7263D!important; 
+    text-decoration: underline;
+}
+
+.paragrafo-footer {
+    color: whitesmoke;
+}

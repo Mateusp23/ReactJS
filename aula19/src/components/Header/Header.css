@@ -1,0 +1,17 @@
+header{
+    padding: 20px;
+    background-color: #02182B!important;
+}
+
+.title-header{
+    color: whitesmoke;
+    text-align: center;
+    text-justify: auto;
+    margin-top: 24px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.paragrafo-header {
+    color: whitesmoke;
+}

@@ -1,0 +1,29 @@
+.btn-new-client {
+    background-color: #D7263D;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 12px;
+    color: whitesmoke;
+    margin-bottom: 24px;
+    justify-content: center;
+}
+
+.btn-new-client:hover{
+    background-color: #9C1C2D;
+}
+
+.title-client-list {
+    margin-top: 32px;
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+.button-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

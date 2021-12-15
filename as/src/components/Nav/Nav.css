@@ -1,0 +1,14 @@
+.nav-site{
+    background-color: #D7263D;
+}
+
+.nav-link{
+    margin-left: 14px;
+    color: #ffff!important;
+    font-weight: 500;
+    font-family: 'Josefin Sans', cursive;
+}
+
+.nav-link:hover{
+    color: #02182B!important;
+}
